@@ -1,0 +1,15 @@
+Class name: JShell
+Parent class (if any):
+Subclasses (if any): 
+
+Responsibilities: 
+*Responds to user input to run commands
+
+Collaborators: 
+*Directory
+*File
+*Path
+*FileSystem
+*Command and all its subclasses
+*InputParser
+*InputValidater

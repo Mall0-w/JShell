@@ -1,0 +1,11 @@
+Class name: LoadJShell
+Parent class (if any): Command, ErrorHandler
+Subclasses (if any): None
+
+Responsibilities: 
+*Locals a saved state of the shell from a file
+
+Collaborators:
+*FileSystem
+*Output
+*Directory

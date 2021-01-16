@@ -1,0 +1,10 @@
+Class name: DirectoryStack
+Parent class (if any): None
+Subclasses (if any): None
+
+Responsibilities: 
+*Saves Directories in a stack
+*Allows for Directories to be pushed onto and popped from the stack
+
+Collaborators: 
+*Directory

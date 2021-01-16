@@ -1,0 +1,12 @@
+Class name: Concatenate
+Parent class (if any): Command, ErrorHandler
+Subclasses (if any): None
+
+Responsibilities: 
+*Prints the contents of one or more files
+
+Collaborators: 
+*Path
+*Directory
+*File
+*Output

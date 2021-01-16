@@ -1,0 +1,11 @@
+Class name: RemoveDirectory
+Parent class (if any): Command, ErrorHandler
+Subclasses (if any): None
+
+Responsibilities: 
+*Removes a given directory and all subdirectories / files
+
+Collaborators:
+*Directory
+*File
+*Path

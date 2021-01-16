@@ -1,0 +1,12 @@
+Class name: ErrorHandler
+Parent class (if any):
+Subclasses (if any): ChangeDirectory, Concatenate, Echo, History, ListFiles, MakeDirectory,
+Manual, PopDirectory, PushDirectory,  ClientURL, LoadJShell, 
+SaveJShell, Search, Tree, RemoveDirectory, Copy, Move
+
+Responsibilities: 
+*displays an error if it were to occur
+*checks input for errors
+
+Collaborators: 
+*Directory

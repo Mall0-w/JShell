@@ -1,0 +1,43 @@
+//Sprint 2 Backlog
+October 28th to November 3rd
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user, I want to search for directories by their path, so that I can open a different file.
+b) As a user, I want to be able to write to and read files in order to store data
+c) As a user, I want to be able to have easy access to other important directories in order to work more effciently
+d) As a user, I want to be able to see documentation of the shell so i know how to properly use it
+e) As a user, I want to receive a message if my command was not valid, so I know that what not to do in the future
+f) As a developer, I want to make a new directory within another directory so that I can organize my files better.	
+g) As a developer, I want to be able to see the contents of my current directory so that I can check if it contains the file I am looking for.
+h)As a developer, I want to see which directory I'm currently in, so that I know where I am in my computer's file system right now.
+i)As a developer, I want to see the previous commands I used, so that I can quickly check what I previously entered without scrolling up the shell.
+
+Specific tasks to be accomplished: 
+* (Design) Continue reviewing the CRC cards and agreeing on a single design 
+a-1. (Searching) Implement the ability to search for directories by absolute path
+a-2 (Searching) Implement the ability to search for directories by relative path
+b-1. (cat) Implement cat so that files can be read
+b-2. (Echo) Implement echo s.t. we can write to files by overwriting
+b-3. (Echo) Implement echo s.t. we can write to files by appending
+c-1. (pushd) Implement pushd so we can store important directories
+c-2. (popd) Implement popd so we can access the stored directories
+d-1  (man) Implement man so that users will know how to use commands and what they do
+e-1. (InputValidater) Fine-tune error handling class
+f-1. (mkdir) Implement mkdir
+h-1: (pwd) Implement pwd so that user always knows current location
+i-1: (history) Implement history so that user always knows what commands were entered
+
+These tasks are assigned as follows: 
+
+User: Carlos Fei Huang
+Tasks: * i-1, h-1, f-1
+
+User: Glenn Qing Yuan Ye
+Tasks: *, b-1, b-2, b-3, e-1
+
+User: Youzhang Sun (Mark)
+Tasks: * a-1, a-2, f-1
+
+User: Kyle Richard Lewis
+Tasks: *, c-1, c-2, d-1

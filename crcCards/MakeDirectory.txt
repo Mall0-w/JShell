@@ -1,0 +1,12 @@
+Class name: MakeDirectory
+Parent class (if any): Command, ErrorHandler
+Subclasses (if any): None
+
+Responsibilities: 
+*Creates a sub-directory inside another directory which may be given by full or relative path
+
+
+Collaborators: 
+*Directory
+*Path
+*Output

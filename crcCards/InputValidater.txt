@@ -1,0 +1,9 @@
+Class name: InputValidater
+Parent class (if any): 
+Subclasses (if any): 
+
+Responsibilities: 
+*Ensures user inputs are valid
+
+Collaborators: 
+*Output

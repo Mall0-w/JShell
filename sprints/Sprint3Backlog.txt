@@ -1,0 +1,41 @@
+//Sprint 3 Backlog
+November 4th to November 10th
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user, I want to be able to write to and read files in order to store data
+b) As a user, I want to be able to have easy access to other important directories in order to work more effciently
+c) As a user, I want to receive a message if my command was not valid, so I know that what not to do in the future
+d) As a developer, I want to make a new directory within another directory so that I can organize my files better.	
+e) As a developer, I want to be able to see the contents of my current directory so that I can check if it contains the file I am looking for.
+f)As a developer, I want to see which directory I'm currently in, so that I know where I am in my computer's file system right now.
+g)As a developer, I want to see the previous commands I used, so that I can quickly check what I previously entered without scrolling up the shell.
+
+Specific tasks to be accomplished: 
+* (Design) Continue reviewing the CRC cards and agreeing on a single design 
+
+a-1. (cat) Finish implementing cat so that files can be read
+a-2. (Echo) Finish implementing echo s.t. we can write to files by overwriting
+a-3. (Echo) Finish implementing echo s.t. we can write to files by appending
+b-1. (cd) Implementing cd s.t. we can switch directories within the shell
+c-1 Continue refining error handling interface and its implementation in commands classes
+d-1. (mkdir) Implement mkdir s.t. we can create new directories
+e-1. (ls) Implement ls s.t. we can see contents of directory
+f-1. (pwd) Implement pwd so that user always knows current location
+g-1. (history) Finish implementing history so that user always knows what commands were entered
+g-2. (pushd) Finish implementing pushd so we can store important directories
+g-3. (popd) Finish implementing so we can access the stored directories
+
+These tasks are assigned as follows: 
+
+User: Carlos Fei Huang
+Tasks: * g-1, f-1, d-1, c-1
+
+User: Glenn Qing Yuan Ye
+Tasks: *, a-1, a-2, a-3
+
+User: Youzhang Sun (Mark)
+Tasks: *, f-1, b-1, e-1
+
+User: Kyle Richard Lewis
+Tasks: *, g-2, g-3

@@ -1,0 +1,69 @@
+//Sprint 5 Backlog
+November 23rd to November 30th
+
+
+User Stories from Product Backlog that we will address in this sprint:
+(None: Sprint is meant exclusively for testing and bug fixing)
+
+Specific tasks to be accomplished: 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Testing Code Implemented Last Sprint
+# means to develop test cases for the given task 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+A - Delete Files and Directories
+a-1. (rm) Implement the Remove command so directories can be deleted, along with all its children
+a-2. (mv) Implement the ability to delete the old file location
+B - MakeDirectory Command
+b-1. (mkdir) Improve the MakeDirectory command so it can make any number of directories 
+C - Improve Ability to Traverse File System
+c-1. (ls) Improve the ListFiles command so it can recursively list sub-directories and files
+c-2. (tree) Implement the Tree command to visualize the entire file system
+c-3. (search) Implement the Search command to search for a file or directories
+D - Move command
+d-1. (mv) Implement the Move command so directories and files can be moved to different locations 
+E - Improve Output Functionality
+e-1. (Output) Add the ability for any command to output to the console or a file
+F - Copy Command
+f-1. (cp) Implement the Copy command so directories or files can be copied
+G - Cat Command
+g-1. (cat) Improve the Cat command so it can display the contents of any number of files
+H - ClientURL command
+h-1. (curl) Add the ClientURL command so data can be retrieved from a URL
+I - Manual Command
+i-1. (man) Update the Manual command with updated commands and new commands info
+J - JShell Save Feature
+j-1. (saveJShell) Implement the SaveJShell command to save the state of the JShell
+j-2. (loadJShell) Implement the LoadJShell command to load a saved state of the JShell
+K - Error Handling
+k-1. (Error Handling) Update the error handling for any updated or new commands 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Testing Code Exclusively Implemented in Assignment A2A
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+L
+#l-1 (ChangeDirectory) develop test cases for changeDirectory
+M
+#m-1 (PrintWorkingDirectory) develop test cases for PrintWorkingDirectory
+N
+#n-1 (Echo) develop test cases for Echo command
+O
+#o-1 (PushDirectory) develop test cases for PushDirectory command
+P
+#p-1 (PopDirectory) develop test cases for PopDirectory command
+Q
+#q-1 (History) develop test cases for History command
+These tasks are assigned as follows: 
+
+User: Carlos Fei Huang
+Tasks: *, #j-1, #j-2, #h-1, #q-1
+
+User: Glenn Qing Yuan Ye
+Tasks: *, #f-1, #a-2, #d-1, #g-1, #e-1, #n-1
+
+User: Youzhang Sun (Mark)
+Tasks: *, #c-2, #c-3, #l-1
+
+User: Kyle Richard Lewis
+Tasks: *, #b-1, #a-1, #i-1 #o-1, #p-1, #m-1

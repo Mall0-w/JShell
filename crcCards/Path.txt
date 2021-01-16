@@ -1,0 +1,11 @@
+Class name: Path
+Parent class (if any): 
+Subclasses (if any): Directory, File
+
+Responsibilities: 
+*Keeps track of placement in file hierarchy
+*Determine if itself is a File or Directory
+*Turn file hierarchy into String
+
+Collaborators: 
+*

@@ -1,0 +1,10 @@
+Class name: ListFiles
+Parent class (if any): Command, ErrorHandler
+Subclasses (if any): None
+
+Responsibilities: 
+*Prints a customizable list of files and directories
+
+Collaborators: 
+*Directory
+*File

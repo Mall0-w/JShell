@@ -1,0 +1,12 @@
+Class name: History
+Parent class (if any): Command, ErrorHandler
+Subclasses (if any): None
+
+Responsibilities: 
+*Prints a list of the most recent commands
+
+Collaborators:
+*FileSystem
+*HistoryList
+*Directory
+*Output

@@ -1,0 +1,10 @@
+Class name: Output
+Parent class (if any): 
+Subclasses (if any): 
+
+Responsibilities: 
+* Output given string to shell or file
+*
+
+Collaborators: 
+*

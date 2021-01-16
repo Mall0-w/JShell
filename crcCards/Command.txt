@@ -1,0 +1,14 @@
+Class name: Command
+Parent class (if any): None
+Subclasses (if any): ChangeDirectory, Concatenate, Echo, Exit, History, ListFiles,
+MakeDirectory, Manual, PopDirectory, PushDirectory, PrintWorkingDirectory, ClientURL, LoadJShell, 
+SaveJShell, Search, Tree, RemoveDirectory, Copy, Move
+
+Responsibilities: 
+*Takes parsed input in the form of a call to the command
+*Returns output if applicable for command
+
+
+Collaborators: 
+*Directory
+

@@ -1,0 +1,15 @@
+Class name: OutputRedirection
+Parent class (if any): None
+Subclasses (if any): None
+
+Responsibilities: 
+*Redirects command output to a file 
+*Can redirect output to a new file
+*Can overwrite a file
+*Can append to a file
+
+Collaborators:
+*File
+*Directory
+*Path
+*Output

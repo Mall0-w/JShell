@@ -1,0 +1,14 @@
+User stories:	Time estimate:
+As a user, I want to exit the program so that I can clear my computer's screen of anything I am not currently using. 		Time estimate: 1 Hour
+As a user, I want to search for directories by their path, so that I can open a different file.  Time estimate: 5 hours
+As a user, I want to be able to write to and read files in order to store data         Time estimate: 1 day
+As a user, I want to be able to read files in order to see the data been stored     Time estimate: 1 day
+As a user, I want to be able to have easy access to other important directories in order to work more effciently     Time estimate: 5 hours
+As a user, I want to be able to see documentation of the shell so i know how to properly use it   Time estimate: 5 hours
+As a user, I want to receive a message if my command was not valid, so I know that what not to do in the future     Time estimate: 1 day
+As a hobbyist, I want to learn how to use my computer through only a shell, so that I can experience what it was like to use computers in the 1970s.	      Time estimate: 5 hours
+As a hobbyist, I want to make my computer output what I tell it to say, so that I can entertain myself.      Time estimate: 2 hours 
+As a developer, I want to make a new directory within another directory so that I can organize my files better.		Time estimate: 3 hours
+As a developer, I want to be able to see the contents of my current directory so that I can check if it contains the file I am looking for.	Time estimate: 4 hours
+As a developer, I want to see which directory I'm currently in, so that I know where I am in my computer's file system right now.	Time estimate: 4 hours
+As a developer, I want to see the previous commands I used, so that I can quickly check what I previously entered without scrolling up the shell.      Time estimate: 3 hours 

@@ -1,0 +1,10 @@
+Class name: File
+Parent class (if any): Path
+Subclasses (if any): 
+
+Responsibilities: 
+*Store wanted contents
+*Append / Overwrite content
+
+Collaborators: 
+*

@@ -1,0 +1,11 @@
+Class name: ChangeDirectory
+Parent class (if any): Command, ErrorHandler
+Subclasses (if any): 
+
+Responsibilities: 
+*Changes the current directory of the shell
+
+Collaborators: 
+*Directory
+*Output
+*Path

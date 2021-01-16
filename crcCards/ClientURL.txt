@@ -1,0 +1,12 @@
+Class name: ClientURL
+Parent class (if any): Command, ErrorHandler
+Subclasses (if any): None
+
+Responsibilities: 
+*Retrieves a file from the Internet using a URL
+*Store the file in the local file system
+
+Collaborators:
+*File
+*Output
+*Directory

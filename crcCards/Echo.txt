@@ -1,0 +1,15 @@
+Class name: Echo
+Parent class (if any): Command, ErrorHandler
+Subclasses (if any): None
+
+Responsibilities: 
+*Prints a string to the shell or to a file 
+*Can choose to overwrite or append to a file
+
+Collaborators:
+*File
+*Output
+*Directory
+*Path
+*File
+*OutputRedirection

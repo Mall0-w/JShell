@@ -1,0 +1,11 @@
+Class name: Directory
+Parent class (if any): Path, ErrorHandler
+Subclasses (if any): 
+
+Responsibilities: 
+*Stores other directories and files
+*Create new file/dir under a dir
+*search for a path given a string
+
+Collaborators: 
+* Output

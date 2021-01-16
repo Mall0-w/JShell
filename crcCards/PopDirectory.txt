@@ -1,0 +1,13 @@
+Class name: PopDirectory
+Parent class (if any): Command, ErrorHandler
+Subclasses (if any): 
+
+Responsibilities: 
+*pops directory from directory stack and changes current working directory
+to said directory
+
+Collaborators: 
+*Directory
+*DirectoryStack
+*Path
+*File

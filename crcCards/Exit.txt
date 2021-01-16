@@ -1,0 +1,10 @@
+Class name: Exit
+Parent class (if any): Command
+Subclasses (if any): None
+
+Responsibilities: 
+*Closes the shell program
+
+
+Collaborators:
+*Directory

@@ -1,0 +1,17 @@
+Class name: Move
+Parent class (if any): Command, ErrorHandler
+Subclasses (if any): None
+
+Responsibilities: 
+*Moves an existing file to a new file location
+*Moves an existing file to another existing file location and overwrite that file location
+*Moves an existing file into an existing directory
+*Moves an existing directory and its contents into an existing directory
+*Renames an existing directory
+
+Collaborators:
+*File
+*Output
+*Directory
+*Path
+*File

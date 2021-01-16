@@ -1,0 +1,17 @@
+Class name: Copy
+Parent class (if any): Command, ErrorHandler
+Subclasses (if any): None
+
+Responsibilities: 
+*Copies an existing file to a new file location
+*Overwrites an existing file with another existing file
+*Copies an existing file into an existing directory
+*Copies an existing directory and its contents into an existing directory
+*Creates a renamed copy of an existing directory
+
+Collaborators:
+*File
+*Output
+*Directory
+*Path
+*File

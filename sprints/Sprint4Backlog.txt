@@ -1,0 +1,71 @@
+//Sprint 4 Backlog
+November 16th to November 22nd
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user, I should have the ability to remove files that I no longer need
+b) As a user, I should be able to create any amount of directories at my own convenience
+c) As a user, I should be able to see the contents of a given file or directory; including their sub-directories if I wish
+	so that I can always know the contents of a given file/directory
+d) As a user, I should be able to move Directories or Files to other locations so that I can organize
+	my data in a way that is convenient to me
+e) As a user, I should have the ability to output to the console or to a file at my discretion in order to have
+	more freedom with creating data	
+f) As a user, I should be able to copy Directories or Files in order to make duplication of
+	data easier and allow for better organization    Time estimate: 4 hours
+g) As a user, I should be able to read the contents of my file in order to properly access data	Time estimate: 2 hours
+h) As a user, I should have the ability to retrieve data from a URL in order to store, access and share data better	Time estimate: 8 hours
+i) As a user, I should be able to see the documentation for any one given command
+j) As a user, I should be able to save the contents of my jShell so I can always have access to it	Time estimate:  10 hours
+k) As a user, I should be able to load the contents of a saved jShell so that I can always access my jShell time estimate: 10 hours
+l) As a user, I should be able to search for directories and files as needed so that I can easily find my stored data	Time estimate: 3 hours
+m) As a user, I should be able to see the structure of my file system in an easy to understand way so I know how and where everything is stored
+	Time estimate: 6 hours	
+n) As a user, I want to receive a message if my command was not valid, so I know that what not to do in the future  
+
+
+Specific tasks to be accomplished: 
+(Note: Lettering is different from the one used in the above user stories.)
+* (Design) Continue reviewing the CRC cards and agreeing on a single design 
+
+A - Delete Files and Directories
+a-1. (rm) Implement the Remove command so directories can be deleted, along with all its children
+a-2. (mv) Implement the ability to delete the old file location
+B - MakeDirectory Command
+b-1. (mkdir) Improve the MakeDirectory command so it can make any number of directories 
+C - Improve Ability to Traverse File System
+c-1. (ls) Improve the ListFiles command so it can recursively list sub-directories and files
+c-2. (tree) Implement the Tree command to visualize the entire file system
+c-3. (search) Implement the Search command to search for a file or directories
+D - Move command
+d-1. (mv) Implement the Move command so directories and files can be moved to different locations 
+E - Improve Output Functionality
+e-1. (Output) Add the ability for any command to output to the console or a file
+F - Copy Command
+f-1. (cp) Implement the Copy command so directories or files can be copied
+G - Cat Command
+g-1. (cat) Improve the Cat command so it can display the contents of any number of files
+H - ClientURL command
+h-1. (curl) Add the ClientURL command so data can be retrieved from a URL
+I - Manual Command
+i-1. (man) Update the Manual command with updated commands and new commands info
+J - JShell Save Feature
+j-1. (saveJShell) Implement the SaveJShell command to save the state of the JShell
+j-2. (loadJShell) Implement the LoadJShell command to load a saved state of the JShell
+K - Error Handling
+k-1. (Error Handling) Update the error handling for any updated or new commands 
+
+
+These tasks are assigned as follows: 
+
+User: Carlos Fei Huang
+Tasks: *, n-1, j-1, j-2, h-1
+
+User: Glenn Qing Yuan Ye
+Tasks: *, n-1, f-1, a-2, d-1, g-1, e-1
+
+User: Youzhang Sun (Mark)
+Tasks: *, n-1, c-2, c-3
+
+User: Kyle Richard Lewis
+Tasks: *, n-1, b-1, a-1, i-1

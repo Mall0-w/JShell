@@ -1,0 +1,8 @@
+Class name: ArugmentHandler
+Parent class (if any):
+Subclasses (if any): Echo
+
+Responsibilities: 
+*Validates given set of arguments
+
+Collaborators: 

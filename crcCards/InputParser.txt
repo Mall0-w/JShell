@@ -1,0 +1,9 @@
+Class name: InputParser
+Parent class (if any): 
+Subclasses (if any): 
+
+Responsibilities: 
+* parses input for commands to understand
+
+Collaborators: 
+* FileSystem

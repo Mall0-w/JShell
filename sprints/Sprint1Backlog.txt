@@ -1,0 +1,33 @@
+//Sprint 1 Backlog
+October 21st to October 27th
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user, I want to exit the program so that I can clear my computer's screen of anything I am not currently using
+b) As a hobbyist, I want to learn how to use my computer through only a shell, so that I can experience what it was like to use computers in the 1970s
+
+Specific tasks to be accomplished: 
+a-1. (Design) Create the CRC cards and agree on a single design 
+b-1. (JShell) Have the shell program running in console
+b-2. (JShell) Have the shell continually prompt the user for input
+d-1. (Exit) Implement the exit command
+e-1. (Directory) Write the base code the Directory class 
+e-2. (File) Write the base code for the File class
+e-3. (Input) Write the base code for an input parser class
+e-4  (Error) Write the base code for an error handling class
+e-5  (Command) Write the base code for a command class
+e-6  (Output) Write the base code for an output class
+
+These tasks are assigned as follows: 
+
+User: Carlos Fei Huang
+Tasks: a-1, e-3, e-6
+
+User: Glenn Qing Yuan Ye
+Tasks: a-1, e-4
+
+User: Youzhang Sun (Mark)
+Tasks: a-1, e-1 [, e-2]
+
+User: Kyle Richard Lewis
+Tasks: a-1, b-1, b-2, d-1, e-5

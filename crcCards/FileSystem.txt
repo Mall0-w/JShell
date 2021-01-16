@@ -1,0 +1,11 @@
+Class name: FileSystem
+Parent class (if any):
+Subclasses (if any): 
+
+Responsibilities: 
+*Stores a hierarchy of Directories and Files, always keeping track of root directory
+*Will implement singleton design (always have same instance)
+
+Collaborators: 
+*Directory
+*HistoryList
